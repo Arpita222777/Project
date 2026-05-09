@@ -1,0 +1,14 @@
+admin,1234,ADMIN
+user,1234,USER
+admin ,123,USER
+Aru,12345,USER
+Admin,123,USER
+Admin,777,USER
+User,777,USER
+Admin,777,USER
+Arpita,1234,USER
+arpita,1234,USER
+Arpita,777,ADMIN
+Arpita,222,USERArpita,222,USER
+Arpita,777,USER
+Arpita,222,USER
